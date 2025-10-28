@@ -161,7 +161,9 @@ PC-2 and PC-4 :
 <img width="1919" height="1199" alt="Screenshot 2025-10-28 112559" src="https://github.com/user-attachments/assets/6a8d7f59-530e-456d-935c-00babc79b3b5" />
 
 Activity Result :
-<img width="1919" height="1199" alt="Screenshot 2025-10-28 112559" src="https://github.com/user-attachments/assets/af395497-a8da-44bf-9c04-9a1c69175f81" />
+
+<img width="1919" height="1199" alt="Screenshot 2025-10-28 113311" src="https://github.com/user-attachments/assets/d82c0c2e-fc76-4c25-95f9-9b161378542f" />
+
 
 # Result
 IPv4 and IPv6 connectivity issues were diagnosed and resolved using ping and tracert commands. Routers and PCs achieved full dual-stack communication after correcting configuration errors, confirming network restoration and routing accuracy.<br>
